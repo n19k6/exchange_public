@@ -9,7 +9,7 @@ b=20;
 
 //$fn=10;
 
-cube([7,7,7],true);
+//cube([7,7,7],true);
 
 difference() {
 difference() {
