@@ -17,6 +17,9 @@
 // distanzhuelse, distanzscheiben
 // pfostenkappen
 
+// materialien:
+// pfeiler [bauhaus, leimbinder fi. bsh, 100x100x6000, 11,50 pro m, 4250821001762]
+
 
 module balken(w=10,d=10,h=250) {
     translate([0,0,h*5])
